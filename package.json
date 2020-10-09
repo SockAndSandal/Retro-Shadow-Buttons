@@ -1,0 +1,30 @@
+{
+  "name": "retro-shadow-buttons",
+  "version": "1.0.0",
+  "description": "Fun little library to get those text-based retro game styled buttons on your website!",
+  "main": "buttons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SockAndSandal/Retro-Shadow-Buttons.git"
+  },
+  "keywords": [
+    "retro",
+    "buttons",
+    "css",
+    "css",
+    "frameworks",
+    "bootstrap",
+    "rpg",
+    "buttons",
+    "games"
+  ],
+  "author": "Amanbeer Khanduja <amanbeer899@gmail.com> (www.amanbeer.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SockAndSandal/Retro-Shadow-Buttons/issues"
+  },
+  "homepage": "https://github.com/SockAndSandal/Retro-Shadow-Buttons#readme"
+}
