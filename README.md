@@ -4,11 +4,15 @@
 
 ## Installation
 
-A good idea would be to simply clone this git repo and pick up the CSS file. Working on a direct npm install as well!
+A good idea would be to simply clone this git repo and pick up the CSS file.
 ```shell
 git clone https://github.com/SockAndSandal/Retro-Shadow-Buttons.git
 ```
 
+This package is also available via `npm`.
+```shell
+npm install --save retro-shadow-buttons
+```
 
 ## Getting started
 
@@ -73,4 +77,4 @@ Retro-Shadow-Buttons supports the [`prefers-reduced-motion` media query](https:/
 
 ## Contributing
 
-Pull requests are the way to go here. I really only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc]) and show a demo of submitted animations in a [pen](https://codepen.io). That **last one is important**.
+Pull requests are the way to go here. I really only have two rules for submitting a pull request: match the naming convention (camelCase, explain what you've done) and show a demo of submitted animations in a [pen](https://codepen.io). That **last one is important**.
