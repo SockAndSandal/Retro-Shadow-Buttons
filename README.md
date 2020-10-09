@@ -16,7 +16,7 @@ npm install --save retro-shadow-buttons
 
 ## Getting started
 
-To get started, simply make a `div` using the  `retro` class name and enter some text inside. This will create a button that can support say, a sentence of text. The class uses Roboto Mono as a default, with a font size of 20, but you can couple the button class with a header or paragraph class to match your choices in type.
+To get started, simply make a `div` using the  `retro` class name and enter some text inside. This will create a button that can support say, a sentence of text. The class uses Roboto Mono as a default, with a font size of 20, but you can couple the button class with a header or paragraph to match your choices in type.
 
 Also check out this [pen](https://codepen.io/SocksAndSandals/pen/xxObjzz) to try out this button! (Refer to width problem below if the button looks all stretched out)
 
