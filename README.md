@@ -1,4 +1,4 @@
-# Retro-Shadow-Buttons
+# Retro Shadow Buttons
 
 ## _Fun little library to get those text-based retro game styled buttons on your website_
 
