@@ -60,7 +60,7 @@ The `rbtn-big` class comes in handy when you're trying to nest a bunch of differ
 
 ### Images
 
-The `retro-img` class is used if you want to take an image (or a GIF for that matter) and make a button out of that.
+The `retro-img` class is used if you want to take an image (or a GIF for that matter) and make a button out of that. Don't use `retro` and `retro-img` together, most of their features are common except a few, could create trouble.
 
 ```html
 <div class="retro-img">                        
