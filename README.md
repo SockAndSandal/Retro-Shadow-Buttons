@@ -68,7 +68,7 @@ The `retro-img` class is used if you want to take an image (or a GIF for that ma
 </div>
 ```
 
-![Image Button](https://raw.githubusercontent.com/SockAndSandal/Retro-Shadow-Buttons/main/images/image%20buttons.png)
+![Image Button](https://raw.githubusercontent.com/SockAndSandal/Retro-Shadow-Buttons/main/images/image%20button.png)
 
 
 ## Accessibility
