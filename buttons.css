@@ -21,7 +21,7 @@ The default font used here is Roboto Mono, feel free to change it to whatever yo
     text-align: left;
     border: 3px solid black!important;
     border-radius: 0;
-    box-shadow: 4px 4px black, 6px 7px white;
+    box-shadow: 3px 3px black, 5px 5px white;
     padding-right: 5%;
     margin-top: 20px;
 }
@@ -39,10 +39,12 @@ The default font used here is Roboto Mono, feel free to change it to whatever yo
 }
 
 .rbtn-small{
+    box-shadow: 2px 2px black, 4px 4px white;
     padding:10px;
 }
 
 .rbtn-big{
+    box-shadow: 2px 2px black, 3px 3px white;
     padding: 20px;
 }
 
@@ -58,7 +60,7 @@ The default font used here is Roboto Mono, feel free to change it to whatever yo
     font-weight: 400;
     text-align: center;
     border-radius: 0;
-    box-shadow: 4px 4px black, 6px 7px white;
+    box-shadow: 3px 3px black, 5px 5px white;
 }
 
 .retro-img:active{
